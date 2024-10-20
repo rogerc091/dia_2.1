@@ -1,1 +1,1 @@
-console.log("estamos no dia 2, apredi git !");
+console.log("estamos no dia 2, aprendi git !");
